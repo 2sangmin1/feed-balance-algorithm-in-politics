@@ -5,3 +5,6 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints/
 data/raw/
+data/processed/*.csv
+data/processed/*.npz
+data/processed/*.joblib
